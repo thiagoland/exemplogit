@@ -2,8 +2,8 @@ package com.thiago;
 
 public class ExemploClasse {
   
-  //teste 1
-	
-	//teste2
+  public static void main(String args[]) {
+	  
+  }
 
 }
